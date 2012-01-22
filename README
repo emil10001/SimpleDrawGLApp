@@ -1,0 +1,4 @@
+REQUIRES:
+DrawGL - https://github.com/emil10001/DrawGL
+
+This is currently a very, very simplistic app that implements the DrawGL library for android. It will hopefully evolve into something useful.
